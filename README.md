@@ -6,6 +6,12 @@ This project aims to create a smart electric meter through IOT technology.The ai
 
 ![SMARTTTT (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/4a66ad12-6fc3-4fbe-84c6-8bc7e6e7a3df)
 
+systems.
+
+**Flow Chart**
+
+![WhatsApp Image 2023-11-17 at 1 35 08 PM](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/c89ef95a-608f-4299-a9d9-08cc7ef91a5b)
+
 **Objectives:**
 
 •	Real-Time Monitoring: Provide users with instantaneous visibility into their electricity consumption.
@@ -26,11 +32,7 @@ This project aims to create a smart electric meter through IOT technology.The ai
 
 •	Sustainability: Contribute to a more sustainable energy ecosystem by promoting responsible consumption and reducing environmental impact.
 
-•	Technological Innovation: Foster ongoing technological advancements, ensuring adaptability, and promoting the continuous improvement of smart metering systems.
-
-**Flow Chart**
-
-![WhatsApp Image 2023-11-17 at 1 35 08 PM](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/c89ef95a-608f-4299-a9d9-08cc7ef91a5b)
+•	Technological Innovation: Foster ongoing technological advancements, ensuring adaptability, and promoting the continuous improvement of smart metering 
 
 **Features**
 
