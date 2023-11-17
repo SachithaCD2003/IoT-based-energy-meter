@@ -26,12 +26,11 @@ This project aims to create a smart electric meter through IOT technology.The ai
 
 **Mind Mapping**
 
-![smartenergy (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/3db521ac-5f2e-4d00-8b69-740135e20d52)
+![SMARTTTT (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/4a66ad12-6fc3-4fbe-84c6-8bc7e6e7a3df)
 
 **Features**
 
 Electronic energy meters, also known as smart meters, incorporate a range of features that enhance their functionality and utility in measuring electrical energy consumption. These meters typically boast a digital display for clear and precise readings, offering high accuracy in measuring energy usage with class ratings indicating their level of precision. Equipped with communication interfaces like RS-485 or Modbus, these meters enable remote reading and monitoring, reducing the need for physical inspections and facilitating efficient data collection. Advanced meters may support bi-directional measurement, accommodating scenarios where energy generation, such as from solar panels, needs to be tracked. Data logging capabilities, including load profile recording, allow for the analysis of consumption patterns over time, aiding in optimization. Tamper detection features are often included to ensure the integrity of measurements and alert authorities to any attempts at manipulation. Smart meters can also measure power factor, demand, and peak usage, providing valuable insights for both consumers and utilities. With compatibility for renewable energy sources and modular designs for easy upgrades, electronic energy meters play a crucial role in modern energy management systems, offering accurate and actionable data to promote efficient and sustainable energy usage.
 
 **Flow Chart**
-
-![flowchart energymeter](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/77b6be99-f1ea-4322-be1e-9be1a17eaeea)
+![flowchart energymeter (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/7ffde631-6881-434e-a290-713d509cf7c9)
