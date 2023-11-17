@@ -34,4 +34,4 @@ Electronic energy meters, also known as smart meters, incorporate a range of fea
 
 **Flow Chart**
 
-![flowchart energymeter (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/7ffde631-6881-434e-a290-713d509cf7c9)
+          ![flowchart energymeter (1)](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/7ffde631-6881-434e-a290-713d509cf7c9)
