@@ -275,3 +275,14 @@ void saveEnergyDataToEEPROM()
   // Commit changes to EEPROM
   EEPROM.commit();
 }
+
+**Demo Video**
+
+https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/9c23fcd9-5fbc-4cc6-ac19-285f6f3d8486
+
+https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/e776b058-1967-4421-8da3-0733d3807737
+
+
+
+
+
