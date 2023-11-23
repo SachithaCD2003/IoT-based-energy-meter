@@ -116,6 +116,15 @@ Step 17: Stop
 
 ![123](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/83c25b85-36dd-47de-a705-2fce1a7859a7)
 
+**Circuit Diagram Hardware Setup**
+
+![Capture9999](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/7011b453-8441-4df0-bb95-0fa549930f18)
+
+**Circuit**
+
+![Capture000](https://github.com/SachithaCD2003/IoT-based-energy-meter/assets/149662267/db9b5448-d41b-428f-866b-f463f2ffd2c0)
+
+
 **Circuit Code**
 
 #define BLYNK_TEMPLATE_ID "TMPL3Xkno1f7f"
